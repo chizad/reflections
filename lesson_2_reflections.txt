@@ -5,6 +5,11 @@ A hidden folder called .git is added to my folder. This makes my folder a git re
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-The staging area contains files ready to commit.
-The working directory contains all your files.
-The repo contains your working directory.
+The staging area contains files ready to commit from the working directory.
+The working directory contains all your files you're working on.
+The repo contains your commited changes.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can stage files to save progress and wait until you're ready to commit with a logical change.
