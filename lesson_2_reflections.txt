@@ -23,3 +23,9 @@ Branches allow you to test different ideas without messing up your “core” co
 How do the diagrams help you visualize the branch structure?
 
 Diagrams show where code has split into different versions and what is accessible.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches combines the changes made from the master in the branch. The diagram demonstrates commits that will and won't be a part of the new commit produced by the merge.
+
