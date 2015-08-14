@@ -29,3 +29,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 Merging two branches combines the changes made from the master in the branch. The diagram demonstrates commits that will and won't be a part of the new commit produced by the merge.
 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pro: Merging is fast and takes all the changes from branches to merge into master. There's not a lot of effort or time needed to do this so it's convenient. Cons: When there are changes done to similar blocks of code from multiple people, you'll need to possibly discuss with the person to resolve which conflict should be implemented into the merged branch.
+
