@@ -20,3 +20,7 @@ You don’t know if a new commit has been made to the master. This could make yo
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 There are a lot of tools for collaboration. It depends on what it is that is being shared. Git is good for code sharing and other highly collaborative projects. For other kinds of communication where someone might just be reviewing and not contributing, git may not be the best choice.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Always. Master should be a stable version of the code. The benefit is that everyone should have a stable working version of the project and update the project as working code is added into the master via pull requests.
