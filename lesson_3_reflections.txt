@@ -16,3 +16,7 @@ Branches: When you want to test an idea or add a new feature within a repository
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You don’t know if a new commit has been made to the master. This could make your local out-of-sync and you wouldn’t know. It could also cause conflicts.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+There are a lot of tools for collaboration. It depends on what it is that is being shared. Git is good for code sharing and other highly collaborative projects. For other kinds of communication where someone might just be reviewing and not contributing, git may not be the best choice.
