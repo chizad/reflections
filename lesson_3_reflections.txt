@@ -12,3 +12,7 @@ Describe the differences between forks, clones, and branches. When would you use
 Forks: When you want to copy a remote that you don't have permission to contribute to directly.
 Clone: When you want to copy a remote that you can contribute to directly.
 Branches: When you want to test an idea or add a new feature within a repository.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You don’t know if a new commit has been made to the master. This could make your local out-of-sync and you wouldn’t know. It could also cause conflicts.
